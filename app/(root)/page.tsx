@@ -1,3 +1,4 @@
+'use Client'
 import HeaderBox from '@/components/HeaderBox';
 import TotalBalanceBox from '@/components/TotalBalanceBox';
 

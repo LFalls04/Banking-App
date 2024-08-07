@@ -1,3 +1,4 @@
+'use Client'
 import React from 'react';
 
 const HeaderBox = ({ type = "title", title, subtext, user }: HeaderBoxProps) => {
